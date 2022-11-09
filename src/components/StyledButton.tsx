@@ -16,4 +16,4 @@ export const StyledButtonText = styled.Text`
     text-transform: uppercase;
     color: white;
     font-weight: bold;
-  `;
+`;

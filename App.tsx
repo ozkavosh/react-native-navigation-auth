@@ -15,7 +15,7 @@ import store from './src/features/store';
 ///// Configuración inicial para login con Google ////
 GoogleSignin.configure({
   webClientId:
-    '#',
+    '882349166406-qqi210d2kfgm393skqlckpflk73ea3li.apps.googleusercontent.com',
 });
 
 //// Tema del navegador ////
